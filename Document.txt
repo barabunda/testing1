@@ -1,4 +1,11 @@
-﻿Learning Git. 
+Learning Git. 
 The first editing. 
 Version 1.0 
 
+I cloned all files from github/barabunda/testing1 
+in
+/Users/olga/learngit/myproject
+
+I edited file Document.txt
+
+I try add, commit and pull

@@ -1,4 +1,0 @@
-﻿Learning Git. 
-The first editing. 
-Version 1.0 
-

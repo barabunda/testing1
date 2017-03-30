@@ -17,15 +17,3 @@ git remote -v
 git pull origin master
 
 git clone done
-
-<<<<<<< HEAD
-
-6666666
-6666666
-=======
-555555
-555555
-555555
-555555
-555555
->>>>>>> 08d679947c595b73832543686524d0cf3ee1dcfd

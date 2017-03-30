@@ -17,4 +17,4 @@ git remote -v
 git pull origin master
 
 git clone done
-testing fetch
+

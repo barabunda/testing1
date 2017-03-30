@@ -9,3 +9,9 @@ in
 I edited file Document.txt
 
 I try add, commit and pull
+
+I used command git remote add origin https://github.com/barabunda/testing1.git
+
+git remote -v
+
+git pull origin master

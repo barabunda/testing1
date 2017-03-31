@@ -3,5 +3,9 @@ The first editing. 
 Version 1.0 
 
 
+<<<<<<< HEAD
 555555555
+=======
+66666666666
+>>>>>>> 88310fa7cfb1094668b834c97cade7ff174aa177
 
